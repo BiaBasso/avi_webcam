@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AviFromWebcam", "AviFromWebcam\AviFromWebcam.csproj", "{30FFA8E7-FFEE-4271-A839-446806542BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FFA8E7-FFEE-4271-A839-446806542BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FFA8E7-FFEE-4271-A839-446806542BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FFA8E7-FFEE-4271-A839-446806542BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FFA8E7-FFEE-4271-A839-446806542BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73858F7B-5957-4115-976C-B8D1B6754988}
+	EndGlobalSection
+EndGlobal
